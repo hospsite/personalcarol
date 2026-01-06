@@ -1,0 +1,101 @@
+*{ 
+    margin: 0;
+    padding: 0;
+
+}
+
+.fundototal{
+    background-image: url("scr/fundo3.jpg"); /* sua imagem */
+      background-size: cover;      /* cobre toda a tela */
+      background-position: center; /* centraliza */
+      background-repeat: no-repeat;
+      
+    
+}
+
+body{
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #e6e6e6;
+}
+
+
+h1{
+    color: yellow;
+    font-size: 2.5em;
+}
+
+.branco{
+    color: rgb(165, 194, 205);
+}
+
+#logo {
+    background-color: #f70084;
+    padding: 5px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#menu{
+    background-color: transparent;
+    padding: 10px;
+    text-align: center;
+    margin-bottom:300px;
+}
+
+a{
+    text-decoration: none ; 
+}
+
+#menu a:link, #menu a:visited {
+    color: black;
+}
+
+#menu a:hover{
+    color: #f7b600;
+    background: transparent;
+}
+
+#area-principal{
+    width: 920px;
+    margin:10px auto;
+    
+    background: transparent;
+}
+
+
+ 
+}
+    display: block;
+
+}
+
+#conteudo{
+
+    width: 660px;
+    float: left
+}
+
+.conteudo{
+    padding: px;
+    margin-bottom: 10px;
+    text-align: center;
+    
+
+}
+
+
+
+.direitos{
+    background: #ccc;
+    text-align: center;
+    clear: both;
+    padding: 1px;
+  
+
+}
+
+.whats{
+    text-align: center;
+    
+}
